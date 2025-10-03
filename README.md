@@ -1,2 +1,1 @@
-Hello from B
-Hello from B
+Project Git Collaboration by B
